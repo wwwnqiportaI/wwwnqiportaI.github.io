@@ -3628,6 +3628,11 @@ table ul {
 /* line 300, ../../sass/_export.scss */
 .biz-ex-diagram-update-panel {
   overflow-y: auto;
+  overflow-x: hidden;
+}
+.biz-ex-diagram-update-panel-container {
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
 /* line 304, ../../sass/_export.scss */
@@ -4394,7 +4399,7 @@ body.off-canvas {
 
 /* line 893, ../../sass/_export.scss */
 .biz-ex-navigate:hover .biz-ex-expand-button-span {
-  color: #A34C00;
+  color: #A34C00;  
 }
 
 /* line 897, ../../sass/_export.scss */
@@ -7122,4 +7127,41 @@ div.biz-ex-poly-inside:hover {
 .lt-ie9 .reveal-modal-bg {
   background-color: transparent;
   background-image: url(../img/sq-overlay.png);
+}
+
+.button-paginated{
+  margin-top: 3px;
+  background-repeat: no-repeat;
+  background-color: #FFF; 
+   border: 1px solid #FFF;
+  border-radius: 2px;
+  font-weight: bold;
+  color:#575757;
+}
+.button-paginated:hover {
+    border: 1px solid #f39938;
+    border-radius: 2px;
+    font-weight: bold;
+    color: #f39938;
+}
+
+.button-paginated-end {    
+  background-image: url(../img/pagination-end.svg);
+  height: 25px;
+  width: 25px;
+}
+.button-paginated-start {
+  background-image: url(../img/pagination-start.svg);
+  height: 25px;
+  width: 25px;
+}
+.button-paginated-left {
+  background-image: url(../img/pagination-left.svg);
+  height:25px;
+  width: 25px;
+}
+.button-paginated-right {
+  background-image: url(../img/pagination-right.svg);
+  height:25px;
+  width: 25px;
 }
