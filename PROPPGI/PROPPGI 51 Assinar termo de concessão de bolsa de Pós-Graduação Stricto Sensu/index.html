@@ -21,7 +21,7 @@
  @author: UX-Team
  @version: 0.1.0
  @url: http://www.bizagi.com
- @date: Apr 12, 2023 4:04 PM 
+ @date: Jun 28, 2024 4:06 PM 
 ***************************************************************************** /
  -->
 
@@ -172,7 +172,7 @@
 -->
 
 <script type="text/x-jquery-tmpl" id="ContainerTmpl">
-  	<section id="sidebar" role="complementary">
+	<section id="sidebar" role="complementary">
 		<nav id="sideMenu" role="navigation">
 			<ul id="sideMainNav" class="nav-bar">
 			</ul>
@@ -184,7 +184,11 @@
 			<div class="biz-ex-menu-toggle-container"></div>
 			<div class="biz-ex-navigation-list"></div>
 		</div>
-		<div class="large-9 columns biz-ex-diagram-update-panel" id="updatePanelDiagram"></div>
+
+		<div class="large-9 columns biz-ex-diagram-update-panel-container" id="panelContainerDiagram">
+			<div class="biz-ex-diagram-update-panel" id="updatePanelDiagram"></div>
+			<div id="updatePanelPaginated"></div>
+		</div>
 	</div>
 </script>
 
@@ -195,7 +199,7 @@
 
 <script type="text/x-jquery-tmpl" id="DesktopContainerTmpl">
 	<div class="biz-ex-layout row">
-		<div class="large-12 columns biz-ex-diagram-update-panel desktopContainer" id="updatePanelDiagram"></div>
+		<div class="large-12 columns biz-ex-diagram-update-panel-container desktopContainer" id="updatePanelDiagram"></div>
 	</div>
 </script>
 <!--
@@ -1212,6 +1216,23 @@
     </ul>
     {{/if}}
 </script>
+<!--
+	@name: 			Paginated View
+-->
+<script type="text/x-jquery-tmpl"  id="PaginatedViewTmpl">    
+    <div style="align-content: center;display: flex;justify-content: center">
+        <div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 16px; margin-top: 8px; margin-right: 5px;">${(start+1)}-${(end)} of ${records}</div>
+        <div>
+            <button id="buttonfirst" class="button-paginated button-paginated button-paginated-start">
+                <!-- <img src = "../img/pagination-end.svg"  /> -->
+            </button>
+            <button id="buttonBack" class="button-paginated button-paginated-left"></button>
+            <button id="buttonNext" class="button-paginated button-paginated-right"></button>
+            <button id="buttonLast" class="button-paginated button-paginated-end"></button>            
+
+        </div>
+
+     </script>
 <!--
 	@name: 			Properties View
 -->
