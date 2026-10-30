@@ -924,12 +924,6 @@
 	content:"\e100e";
 }
 
-
-.bz-icon-maximize-outline:before {
-	content:"\f15c";
-}
-
-
 .bz-icon-menu-items:before {
 	content:"\e1084";
 }
@@ -943,17 +937,6 @@
 .bz-icon-menu:before {
 	content:"\e1031";
 }
-
-
-.bz-icon-minimize-close-outline:before {
-	content:"\f15e";
-}
-
-
-.bz-icon-minimize-outline:before {
-	content:"\f15f";
-}
-
 
 .bz-icon-minus-outline:before {
 	content:"\f160";
@@ -1043,12 +1026,6 @@
 .bz-icon-number-outline:before {
 	content:"\f16e";
 }
-
-
-.bz-icon-open-outline:before {
-	content:"\f16f";
-}
-
 
 .bz-icon-open:before {
 	content:"\e1034";
