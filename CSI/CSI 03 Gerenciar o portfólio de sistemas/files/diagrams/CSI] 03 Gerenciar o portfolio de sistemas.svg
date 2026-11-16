@@ -29,7 +29,7 @@
       </g>
       <svg width="30" height="263" class="djs-svg-text">
         <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 263)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="74.51092" y="18.25">Coordenador(a) do CSI</tspan>
+          <tspan x="74.89983" y="18.25">Coordenador(a) da CSI</tspan>
         </text>
       </svg>
     </g>
@@ -42,7 +42,7 @@
       </g>
       <svg width="30" height="200" class="djs-svg-text">
         <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 200)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="37.17719" y="18.25">Coordenador(a) do DAPS</tspan>
+          <tspan x="37.56611" y="18.25">Coordenador(a) da DAPS</tspan>
         </text>
       </svg>
     </g>
@@ -55,7 +55,7 @@
       </g>
       <svg width="30" height="200" class="djs-svg-text">
         <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 200)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="40.17702" y="18.25">Coordenador(a) do DDS</tspan>
+          <tspan x="40.56593" y="18.25">Coordenador(a) da DDS</tspan>
         </text>
       </svg>
     </g>
@@ -68,7 +68,7 @@
       </g>
       <svg width="30" height="200" class="djs-svg-text">
         <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 200)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="37.8539" y="18.25">Coordenador(a) do DSTC</tspan>
+          <tspan x="38.24281" y="18.25">Coordenador(a) da DSTC</tspan>
         </text>
       </svg>
     </g>
@@ -105,16 +105,16 @@
     <g transform="matrix(1, 0, 0, 1, 241, 130)" id="gfx-919ced48-0181-4d06-95db-3c42c5acf4da" display="block" class="djs-element djs-shape" data-element-id="919ced48-0181-4d06-95db-3c42c5acf4da">
       <g class="djs-visual">
         <g>
-          <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
+          <rect x="0" y="0" width="99" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
           <g />
         </g>
       </g>
-      <svg width="90" height="56" class="djs-svg-text">
+      <svg width="99" height="56" class="djs-svg-text">
         <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="24.95531" y="13.75">Solicitar </tspan>
-          <tspan x="14.76571" y="26.75">informações </tspan>
-          <tspan x="5.535439" y="39.75">sobre progresso </tspan>
-          <tspan x="15.74837" y="52.75">dos projetos</tspan>
+          <tspan x="29.45531" y="13.75">Solicitar </tspan>
+          <tspan x="6.156662" y="26.75">informações sobre</tspan>
+          <tspan x="23.91716" y="39.75">sistemas e </tspan>
+          <tspan x="30.19424" y="52.75">projetos</tspan>
         </text>
       </svg>
     </g>
@@ -364,7 +364,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M331 160 L405 160" marker-end="url(#arrowSecuenceFlowa3808cbd-f9b4-491d-92de-f149ce618574)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M340 160 L405 160" marker-end="url(#arrowSecuenceFlowa3808cbd-f9b4-491d-92de-f149ce618574)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -378,7 +378,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M425 180 L425 393 C425 393 425 399 431 399 L479 399" marker-end="url(#arrowSecuenceFlow050c21d1-4609-49bd-8d0b-22fd5fe699df)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M445 160 L456 160 C456 160 462 160 462 166 L462 393 C462 393 462 399 468 399 L479 399" marker-end="url(#arrowSecuenceFlow050c21d1-4609-49bd-8d0b-22fd5fe699df)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -420,7 +420,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M591 400 L646 400 C646 400 652 400 652 394 L652 180" marker-end="url(#arrowSecuenceFlow7e717726-9a31-4ec8-8cf2-b936d9b0e7a1)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M591 400 L606 400 C606 400 612 400 612 394 L612 166 C612 166 612 160 618 160 L632 160" marker-end="url(#arrowSecuenceFlow7e717726-9a31-4ec8-8cf2-b936d9b0e7a1)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -448,7 +448,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M1263 190 L1263 958 C1263 958 1263 964 1269 964 L1332 964" marker-end="url(#arrowSecuenceFlow5fac9c83-bdcc-48b4-8135-e112be64093b)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M1254 190 L1254 958 C1254 958 1254 964 1260 964 L1332 964" marker-end="url(#arrowSecuenceFlow5fac9c83-bdcc-48b4-8135-e112be64093b)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
